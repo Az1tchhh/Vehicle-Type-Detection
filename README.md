@@ -1,5 +1,5 @@
 ## Dataset
-https://www.kaggle.com/datasets/nadinpethiyagoda/vehicle-dataset-for-yolo/code
+https://www.kaggle.com/datasets/nadinpethiyagoda/vehicle-dataset-for-yolo
 
 ## Related links
 Yolo models difference:
